@@ -1,8 +1,22 @@
-# React + Vite
+# Course Catalog App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React application that displays different courses in the areas of Full Stack Development, Data Science, Cybersecurity, and Career Development.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Displays courses in various categories.
+- Each course card contains an image, title, description, and duration.
+
+## Technologies Used
+
+- React
+- React Router
+- HTML
+- CSS
+
+## Components
+
+- `Navbar`: Displays the navigation bar.
+- `Home`: Displays all available courses.
+- `Fullstack`, `Datascience`, `Cybersecurity`, `Career`: Displays courses based on category.
+- `Card`: Represents a course card.
