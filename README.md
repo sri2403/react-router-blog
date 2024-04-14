@@ -20,3 +20,5 @@ This is a React application that displays different courses in the areas of Full
 - `Home`: Displays all available courses.
 - `Fullstack`, `Datascience`, `Cybersecurity`, `Career`: Displays courses based on category.
 - `Card`: Represents a course card.
+
+view=>https://react-router-task-sri2403.netlify.app/
