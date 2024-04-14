@@ -1,0 +1,27 @@
+.navbar {
+  background-color: #bbcddf;
+}
+
+.navbar li a {
+  text-decoration: none;
+  color: #212529; 
+}
+
+.navbar li a:hover {
+  text-decoration: underline;
+}
+ 
+.card{
+  height:850px;
+}
+
+img{
+  border-radius: 5px;
+}
+
+.one{
+  background-color: #bbcddf;
+}
+body{
+  background-color: antiquewhite;
+}
