@@ -1,4 +1,4 @@
-# Course Catalog App
+# Course Catalog App- Router
 
 This is a React application that displays different courses in the areas of Full Stack Development, Data Science, Cybersecurity, and Career Development.
 
